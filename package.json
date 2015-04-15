@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-validatorjs",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.1.0",
+  "description": "Validate your Ember Objects.",
   "directories": {
     "doc": "doc",
     "test": "tests"
